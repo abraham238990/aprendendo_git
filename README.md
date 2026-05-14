@@ -5,3 +5,5 @@ Repositorio para a aula de git da Turma 26 da ilum school of science
 usado para a disciplina de Prática de Ciência de Dados
 Neste momento, o repositório está em construção e estamos ainda atualizando o README
 Vamos aprender a fazer um commit local.
+
+adicionas arquivo de dicas, melhor

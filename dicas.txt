@@ -1,1 +1,3 @@
-sempre coloque mensagens em seus commits
+sempre coloque mensagens em seus commits, melhor assim
+
+
